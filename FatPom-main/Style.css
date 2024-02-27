@@ -151,7 +151,8 @@ h1.comingsoon {
     color: #e63a008d;
 }
 
-#Contact {
-    margin-left: 100%;
-    color: #e63a008d;
+label {
+    margin-left: 0%;
+    color: #E63900;
+    font-size: 24px;
 }
